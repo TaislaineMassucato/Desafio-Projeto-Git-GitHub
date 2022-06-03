@@ -1,0 +1,5 @@
+arrays ou vetores unidemensionais- armazenam varios dados do mesmo tipo
+
+
+			int[ ]    num=new         int[5];
+			tipo       nome	tamanho 

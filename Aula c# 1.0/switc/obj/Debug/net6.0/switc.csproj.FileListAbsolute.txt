@@ -1,0 +1,15 @@
+C:\Users\tay\Desktop\aula\switc\bin\Debug\net6.0\switc.exe
+C:\Users\tay\Desktop\aula\switc\bin\Debug\net6.0\switc.deps.json
+C:\Users\tay\Desktop\aula\switc\bin\Debug\net6.0\switc.runtimeconfig.json
+C:\Users\tay\Desktop\aula\switc\bin\Debug\net6.0\switc.dll
+C:\Users\tay\Desktop\aula\switc\bin\Debug\net6.0\switc.pdb
+C:\Users\tay\Desktop\aula\switc\obj\Debug\net6.0\switc.csproj.AssemblyReference.cache
+C:\Users\tay\Desktop\aula\switc\obj\Debug\net6.0\switc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tay\Desktop\aula\switc\obj\Debug\net6.0\switc.AssemblyInfoInputs.cache
+C:\Users\tay\Desktop\aula\switc\obj\Debug\net6.0\switc.AssemblyInfo.cs
+C:\Users\tay\Desktop\aula\switc\obj\Debug\net6.0\switc.csproj.CoreCompileInputs.cache
+C:\Users\tay\Desktop\aula\switc\obj\Debug\net6.0\switc.dll
+C:\Users\tay\Desktop\aula\switc\obj\Debug\net6.0\refint\switc.dll
+C:\Users\tay\Desktop\aula\switc\obj\Debug\net6.0\switc.pdb
+C:\Users\tay\Desktop\aula\switc\obj\Debug\net6.0\switc.genruntimeconfig.cache
+C:\Users\tay\Desktop\aula\switc\obj\Debug\net6.0\ref\switc.dll

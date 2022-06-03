@@ -1,0 +1,36 @@
+ int v1,v2,soma;
+string nome;
+
+console white("Digite seu nome");
+
+	NOME=CONSOLE.READLINE();
+console whiteline("Nome digitado és:  {0}", nome);
+
+(red= ler o que vem do teclado
+red line - ler e quebrar linha)
+
+    					CALCULADORA 
+
+ 	 int v1,v2,soma;
+	string nome;
+
+	console white("Digite N1: ");
+		v1=CONSOLE.READLINE();
+	console white("Digite N2: ");
+		v2=CONSOLE.READLINE();
+
+	SOMA=V1+V2;
+
+	console whiteline("A soma de {0} mais {1} é : {2}",v1,v2, soma);
+
+	-----{Tudo que é lido no teclado é lido como string. o programador tem que converter}----
+	
+		@metodo de inversao
+	---int.parse
+	--convert.toint32
+
+	console white("Digite N1: ");
+		v1=int.Parse(CONSOLE.READLINE());
+	console white("Digite N2: ");
+		v2=convert.toint32(CONSOLE.READLINE());
+  

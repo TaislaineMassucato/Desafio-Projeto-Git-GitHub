@@ -1,0 +1,15 @@
+C:\Users\tay\Desktop\aula\ClassesStatic\bin\Debug\net6.0\classesstatic.exe
+C:\Users\tay\Desktop\aula\ClassesStatic\bin\Debug\net6.0\classesstatic.deps.json
+C:\Users\tay\Desktop\aula\ClassesStatic\bin\Debug\net6.0\classesstatic.runtimeconfig.json
+C:\Users\tay\Desktop\aula\ClassesStatic\bin\Debug\net6.0\classesstatic.dll
+C:\Users\tay\Desktop\aula\ClassesStatic\bin\Debug\net6.0\classesstatic.pdb
+C:\Users\tay\Desktop\aula\ClassesStatic\obj\Debug\net6.0\classesstatic.csproj.AssemblyReference.cache
+C:\Users\tay\Desktop\aula\ClassesStatic\obj\Debug\net6.0\classesstatic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tay\Desktop\aula\ClassesStatic\obj\Debug\net6.0\classesstatic.AssemblyInfoInputs.cache
+C:\Users\tay\Desktop\aula\ClassesStatic\obj\Debug\net6.0\classesstatic.AssemblyInfo.cs
+C:\Users\tay\Desktop\aula\ClassesStatic\obj\Debug\net6.0\classesstatic.csproj.CoreCompileInputs.cache
+C:\Users\tay\Desktop\aula\ClassesStatic\obj\Debug\net6.0\classesstatic.dll
+C:\Users\tay\Desktop\aula\ClassesStatic\obj\Debug\net6.0\refint\classesstatic.dll
+C:\Users\tay\Desktop\aula\ClassesStatic\obj\Debug\net6.0\classesstatic.pdb
+C:\Users\tay\Desktop\aula\ClassesStatic\obj\Debug\net6.0\classesstatic.genruntimeconfig.cache
+C:\Users\tay\Desktop\aula\ClassesStatic\obj\Debug\net6.0\ref\classesstatic.dll

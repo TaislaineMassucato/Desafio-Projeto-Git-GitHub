@@ -1,0 +1,15 @@
+C:\Users\tay\Desktop\aula\thiss\bin\Debug\net6.0\thiss.exe
+C:\Users\tay\Desktop\aula\thiss\bin\Debug\net6.0\thiss.deps.json
+C:\Users\tay\Desktop\aula\thiss\bin\Debug\net6.0\thiss.runtimeconfig.json
+C:\Users\tay\Desktop\aula\thiss\bin\Debug\net6.0\thiss.dll
+C:\Users\tay\Desktop\aula\thiss\bin\Debug\net6.0\thiss.pdb
+C:\Users\tay\Desktop\aula\thiss\obj\Debug\net6.0\thiss.csproj.AssemblyReference.cache
+C:\Users\tay\Desktop\aula\thiss\obj\Debug\net6.0\thiss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tay\Desktop\aula\thiss\obj\Debug\net6.0\thiss.AssemblyInfoInputs.cache
+C:\Users\tay\Desktop\aula\thiss\obj\Debug\net6.0\thiss.AssemblyInfo.cs
+C:\Users\tay\Desktop\aula\thiss\obj\Debug\net6.0\thiss.csproj.CoreCompileInputs.cache
+C:\Users\tay\Desktop\aula\thiss\obj\Debug\net6.0\thiss.dll
+C:\Users\tay\Desktop\aula\thiss\obj\Debug\net6.0\refint\thiss.dll
+C:\Users\tay\Desktop\aula\thiss\obj\Debug\net6.0\thiss.pdb
+C:\Users\tay\Desktop\aula\thiss\obj\Debug\net6.0\thiss.genruntimeconfig.cache
+C:\Users\tay\Desktop\aula\thiss\obj\Debug\net6.0\ref\thiss.dll

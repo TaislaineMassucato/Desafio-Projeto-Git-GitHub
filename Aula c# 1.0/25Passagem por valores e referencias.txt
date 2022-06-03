@@ -1,0 +1,44 @@
+using System;
+    namespace passagem{
+        class valorreferencia{
+            static void Main(){
+                int num=10;
+                dobrar(num);
+                Console.WriteLine(num);
+
+            }
+            static void dobrar(int valor){
+                valor*=2;
+            }
+        }
+    }
+Imformarara 10...Pois int10 esta no metodo main , armazenado em memoria diferente da de dobrar.
+		PASSAGEM VALKOR
+passagem valor - Nao usa (ref) e me retorna o valor que esta citado no metodo proprio dele.NAO USA ENDEREÇO 
+E NAO MODIFICA SÓ MOSTRA O ENDEREÇO SALVO NA MEMORIA.SÓ COPIA
+	PEX:				
+	static void Main(){
+
+                int num=10;
+                dobrar(num);
+
+                Console.WriteLine(num); }
+			({NUM}IRÁ RETORNAR 10 E NAO DOBRAR COMO PEDE NO METODO DOBRAR)
+			MESMO EU DECLARANDO O METODO DOBRAR DENTRO DO MAIN,POIS NAO
+			TEVE REFERENCIA E O NUM FOI DECLARADO NO MAIN.
+            static void dobrar(int valor){
+                valor*=2;
+
+		PASSAGEM POR REFERENCIA
+passagem por referencia - Usar (ref) para passar referencia de num main para metodo dobrar..ele executa o que o
+ outro metodo pede e para usar variavel de outro metodo usar (ref).USA O QUE ESTA NA MEMORIA E MODIFICA
+
+	static void Main(){
+                int num=10;
+                dobrar(ref num);
+                Console.WriteLine(num);
+
+            }
+            static void dobrar(ref int valor){
+                valor*=2;
+JÁ UTILIZEI )REF( ASSIM PASSANDO A REFERENCIA DE DOBRAR PARA MAIN ONDE ESTA A VARIAVEL. 

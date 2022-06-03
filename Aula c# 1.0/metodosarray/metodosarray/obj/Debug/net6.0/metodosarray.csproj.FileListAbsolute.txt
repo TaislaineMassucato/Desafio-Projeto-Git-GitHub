@@ -1,0 +1,15 @@
+C:\Users\tay\Desktop\aula\metodosarray\metodosarray\bin\Debug\net6.0\metodosarray.exe
+C:\Users\tay\Desktop\aula\metodosarray\metodosarray\bin\Debug\net6.0\metodosarray.deps.json
+C:\Users\tay\Desktop\aula\metodosarray\metodosarray\bin\Debug\net6.0\metodosarray.runtimeconfig.json
+C:\Users\tay\Desktop\aula\metodosarray\metodosarray\bin\Debug\net6.0\metodosarray.dll
+C:\Users\tay\Desktop\aula\metodosarray\metodosarray\bin\Debug\net6.0\metodosarray.pdb
+C:\Users\tay\Desktop\aula\metodosarray\metodosarray\obj\Debug\net6.0\metodosarray.csproj.AssemblyReference.cache
+C:\Users\tay\Desktop\aula\metodosarray\metodosarray\obj\Debug\net6.0\metodosarray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tay\Desktop\aula\metodosarray\metodosarray\obj\Debug\net6.0\metodosarray.AssemblyInfoInputs.cache
+C:\Users\tay\Desktop\aula\metodosarray\metodosarray\obj\Debug\net6.0\metodosarray.AssemblyInfo.cs
+C:\Users\tay\Desktop\aula\metodosarray\metodosarray\obj\Debug\net6.0\metodosarray.csproj.CoreCompileInputs.cache
+C:\Users\tay\Desktop\aula\metodosarray\metodosarray\obj\Debug\net6.0\metodosarray.dll
+C:\Users\tay\Desktop\aula\metodosarray\metodosarray\obj\Debug\net6.0\refint\metodosarray.dll
+C:\Users\tay\Desktop\aula\metodosarray\metodosarray\obj\Debug\net6.0\metodosarray.pdb
+C:\Users\tay\Desktop\aula\metodosarray\metodosarray\obj\Debug\net6.0\metodosarray.genruntimeconfig.cache
+C:\Users\tay\Desktop\aula\metodosarray\metodosarray\obj\Debug\net6.0\ref\metodosarray.dll

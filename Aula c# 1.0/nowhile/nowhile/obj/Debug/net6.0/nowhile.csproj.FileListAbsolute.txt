@@ -1,0 +1,15 @@
+C:\Users\tay\Desktop\aula\nowhile\nowhile\bin\Debug\net6.0\nowhile.exe
+C:\Users\tay\Desktop\aula\nowhile\nowhile\bin\Debug\net6.0\nowhile.deps.json
+C:\Users\tay\Desktop\aula\nowhile\nowhile\bin\Debug\net6.0\nowhile.runtimeconfig.json
+C:\Users\tay\Desktop\aula\nowhile\nowhile\bin\Debug\net6.0\nowhile.dll
+C:\Users\tay\Desktop\aula\nowhile\nowhile\bin\Debug\net6.0\nowhile.pdb
+C:\Users\tay\Desktop\aula\nowhile\nowhile\obj\Debug\net6.0\nowhile.csproj.AssemblyReference.cache
+C:\Users\tay\Desktop\aula\nowhile\nowhile\obj\Debug\net6.0\nowhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tay\Desktop\aula\nowhile\nowhile\obj\Debug\net6.0\nowhile.AssemblyInfoInputs.cache
+C:\Users\tay\Desktop\aula\nowhile\nowhile\obj\Debug\net6.0\nowhile.AssemblyInfo.cs
+C:\Users\tay\Desktop\aula\nowhile\nowhile\obj\Debug\net6.0\nowhile.csproj.CoreCompileInputs.cache
+C:\Users\tay\Desktop\aula\nowhile\nowhile\obj\Debug\net6.0\nowhile.dll
+C:\Users\tay\Desktop\aula\nowhile\nowhile\obj\Debug\net6.0\refint\nowhile.dll
+C:\Users\tay\Desktop\aula\nowhile\nowhile\obj\Debug\net6.0\nowhile.pdb
+C:\Users\tay\Desktop\aula\nowhile\nowhile\obj\Debug\net6.0\nowhile.genruntimeconfig.cache
+C:\Users\tay\Desktop\aula\nowhile\nowhile\obj\Debug\net6.0\ref\nowhile.dll

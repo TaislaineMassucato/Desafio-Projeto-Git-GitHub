@@ -1,0 +1,15 @@
+C:\Users\tay\Desktop\aula\whilee\whilee\obj\Debug\net6.0\whilee.csproj.AssemblyReference.cache
+C:\Users\tay\Desktop\aula\whilee\whilee\obj\Debug\net6.0\whilee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tay\Desktop\aula\whilee\whilee\obj\Debug\net6.0\whilee.AssemblyInfoInputs.cache
+C:\Users\tay\Desktop\aula\whilee\whilee\obj\Debug\net6.0\whilee.AssemblyInfo.cs
+C:\Users\tay\Desktop\aula\whilee\whilee\obj\Debug\net6.0\whilee.csproj.CoreCompileInputs.cache
+C:\Users\tay\Desktop\aula\whilee\whilee\bin\Debug\net6.0\whilee.exe
+C:\Users\tay\Desktop\aula\whilee\whilee\bin\Debug\net6.0\whilee.deps.json
+C:\Users\tay\Desktop\aula\whilee\whilee\bin\Debug\net6.0\whilee.runtimeconfig.json
+C:\Users\tay\Desktop\aula\whilee\whilee\bin\Debug\net6.0\whilee.dll
+C:\Users\tay\Desktop\aula\whilee\whilee\bin\Debug\net6.0\whilee.pdb
+C:\Users\tay\Desktop\aula\whilee\whilee\obj\Debug\net6.0\whilee.dll
+C:\Users\tay\Desktop\aula\whilee\whilee\obj\Debug\net6.0\refint\whilee.dll
+C:\Users\tay\Desktop\aula\whilee\whilee\obj\Debug\net6.0\whilee.pdb
+C:\Users\tay\Desktop\aula\whilee\whilee\obj\Debug\net6.0\whilee.genruntimeconfig.cache
+C:\Users\tay\Desktop\aula\whilee\whilee\obj\Debug\net6.0\ref\whilee.dll

@@ -1,0 +1,15 @@
+C:\Users\tay\Desktop\aula\HerançaOrdemdeexecucao\bin\Debug\net6.0\HerançaOrdemdeexecucao.exe
+C:\Users\tay\Desktop\aula\HerançaOrdemdeexecucao\bin\Debug\net6.0\HerançaOrdemdeexecucao.deps.json
+C:\Users\tay\Desktop\aula\HerançaOrdemdeexecucao\bin\Debug\net6.0\HerançaOrdemdeexecucao.runtimeconfig.json
+C:\Users\tay\Desktop\aula\HerançaOrdemdeexecucao\bin\Debug\net6.0\HerançaOrdemdeexecucao.dll
+C:\Users\tay\Desktop\aula\HerançaOrdemdeexecucao\bin\Debug\net6.0\HerançaOrdemdeexecucao.pdb
+C:\Users\tay\Desktop\aula\HerançaOrdemdeexecucao\obj\Debug\net6.0\HerançaOrdemdeexecucao.csproj.AssemblyReference.cache
+C:\Users\tay\Desktop\aula\HerançaOrdemdeexecucao\obj\Debug\net6.0\HerançaOrdemdeexecucao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tay\Desktop\aula\HerançaOrdemdeexecucao\obj\Debug\net6.0\HerançaOrdemdeexecucao.AssemblyInfoInputs.cache
+C:\Users\tay\Desktop\aula\HerançaOrdemdeexecucao\obj\Debug\net6.0\HerançaOrdemdeexecucao.AssemblyInfo.cs
+C:\Users\tay\Desktop\aula\HerançaOrdemdeexecucao\obj\Debug\net6.0\HerançaOrdemdeexecucao.csproj.CoreCompileInputs.cache
+C:\Users\tay\Desktop\aula\HerançaOrdemdeexecucao\obj\Debug\net6.0\HerançaOrdemdeexecucao.dll
+C:\Users\tay\Desktop\aula\HerançaOrdemdeexecucao\obj\Debug\net6.0\refint\HerançaOrdemdeexecucao.dll
+C:\Users\tay\Desktop\aula\HerançaOrdemdeexecucao\obj\Debug\net6.0\HerançaOrdemdeexecucao.pdb
+C:\Users\tay\Desktop\aula\HerançaOrdemdeexecucao\obj\Debug\net6.0\HerançaOrdemdeexecucao.genruntimeconfig.cache
+C:\Users\tay\Desktop\aula\HerançaOrdemdeexecucao\obj\Debug\net6.0\ref\HerançaOrdemdeexecucao.dll

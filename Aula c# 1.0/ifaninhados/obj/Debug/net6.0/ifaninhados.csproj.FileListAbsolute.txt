@@ -1,0 +1,15 @@
+C:\Users\tay\Desktop\aula\ifaninhados\obj\Debug\net6.0\ifaninhados.csproj.AssemblyReference.cache
+C:\Users\tay\Desktop\aula\ifaninhados\obj\Debug\net6.0\ifaninhados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tay\Desktop\aula\ifaninhados\obj\Debug\net6.0\ifaninhados.AssemblyInfoInputs.cache
+C:\Users\tay\Desktop\aula\ifaninhados\obj\Debug\net6.0\ifaninhados.AssemblyInfo.cs
+C:\Users\tay\Desktop\aula\ifaninhados\obj\Debug\net6.0\ifaninhados.csproj.CoreCompileInputs.cache
+C:\Users\tay\Desktop\aula\ifaninhados\bin\Debug\net6.0\ifaninhados.exe
+C:\Users\tay\Desktop\aula\ifaninhados\bin\Debug\net6.0\ifaninhados.deps.json
+C:\Users\tay\Desktop\aula\ifaninhados\bin\Debug\net6.0\ifaninhados.runtimeconfig.json
+C:\Users\tay\Desktop\aula\ifaninhados\bin\Debug\net6.0\ifaninhados.dll
+C:\Users\tay\Desktop\aula\ifaninhados\bin\Debug\net6.0\ifaninhados.pdb
+C:\Users\tay\Desktop\aula\ifaninhados\obj\Debug\net6.0\ifaninhados.dll
+C:\Users\tay\Desktop\aula\ifaninhados\obj\Debug\net6.0\refint\ifaninhados.dll
+C:\Users\tay\Desktop\aula\ifaninhados\obj\Debug\net6.0\ifaninhados.pdb
+C:\Users\tay\Desktop\aula\ifaninhados\obj\Debug\net6.0\ifaninhados.genruntimeconfig.cache
+C:\Users\tay\Desktop\aula\ifaninhados\obj\Debug\net6.0\ref\ifaninhados.dll

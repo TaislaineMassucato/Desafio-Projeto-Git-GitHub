@@ -1,0 +1,15 @@
+C:\Users\tay\Desktop\aula\membrosprotected\obj\Debug\net6.0\membrosprotected.csproj.AssemblyReference.cache
+C:\Users\tay\Desktop\aula\membrosprotected\obj\Debug\net6.0\membrosprotected.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tay\Desktop\aula\membrosprotected\obj\Debug\net6.0\membrosprotected.AssemblyInfoInputs.cache
+C:\Users\tay\Desktop\aula\membrosprotected\obj\Debug\net6.0\membrosprotected.AssemblyInfo.cs
+C:\Users\tay\Desktop\aula\membrosprotected\obj\Debug\net6.0\membrosprotected.csproj.CoreCompileInputs.cache
+C:\Users\tay\Desktop\aula\membrosprotected\bin\Debug\net6.0\membrosprotected.exe
+C:\Users\tay\Desktop\aula\membrosprotected\bin\Debug\net6.0\membrosprotected.deps.json
+C:\Users\tay\Desktop\aula\membrosprotected\bin\Debug\net6.0\membrosprotected.runtimeconfig.json
+C:\Users\tay\Desktop\aula\membrosprotected\bin\Debug\net6.0\membrosprotected.dll
+C:\Users\tay\Desktop\aula\membrosprotected\bin\Debug\net6.0\membrosprotected.pdb
+C:\Users\tay\Desktop\aula\membrosprotected\obj\Debug\net6.0\membrosprotected.dll
+C:\Users\tay\Desktop\aula\membrosprotected\obj\Debug\net6.0\refint\membrosprotected.dll
+C:\Users\tay\Desktop\aula\membrosprotected\obj\Debug\net6.0\membrosprotected.pdb
+C:\Users\tay\Desktop\aula\membrosprotected\obj\Debug\net6.0\membrosprotected.genruntimeconfig.cache
+C:\Users\tay\Desktop\aula\membrosprotected\obj\Debug\net6.0\ref\membrosprotected.dll

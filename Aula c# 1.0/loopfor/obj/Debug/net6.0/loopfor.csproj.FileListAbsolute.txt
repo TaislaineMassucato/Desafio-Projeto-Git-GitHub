@@ -1,0 +1,15 @@
+C:\Users\tay\Desktop\aula\loopfor\bin\Debug\net6.0\loopfor.exe
+C:\Users\tay\Desktop\aula\loopfor\bin\Debug\net6.0\loopfor.deps.json
+C:\Users\tay\Desktop\aula\loopfor\bin\Debug\net6.0\loopfor.runtimeconfig.json
+C:\Users\tay\Desktop\aula\loopfor\bin\Debug\net6.0\loopfor.dll
+C:\Users\tay\Desktop\aula\loopfor\bin\Debug\net6.0\loopfor.pdb
+C:\Users\tay\Desktop\aula\loopfor\obj\Debug\net6.0\loopfor.csproj.AssemblyReference.cache
+C:\Users\tay\Desktop\aula\loopfor\obj\Debug\net6.0\loopfor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tay\Desktop\aula\loopfor\obj\Debug\net6.0\loopfor.AssemblyInfoInputs.cache
+C:\Users\tay\Desktop\aula\loopfor\obj\Debug\net6.0\loopfor.AssemblyInfo.cs
+C:\Users\tay\Desktop\aula\loopfor\obj\Debug\net6.0\loopfor.csproj.CoreCompileInputs.cache
+C:\Users\tay\Desktop\aula\loopfor\obj\Debug\net6.0\loopfor.dll
+C:\Users\tay\Desktop\aula\loopfor\obj\Debug\net6.0\refint\loopfor.dll
+C:\Users\tay\Desktop\aula\loopfor\obj\Debug\net6.0\loopfor.pdb
+C:\Users\tay\Desktop\aula\loopfor\obj\Debug\net6.0\loopfor.genruntimeconfig.cache
+C:\Users\tay\Desktop\aula\loopfor\obj\Debug\net6.0\ref\loopfor.dll

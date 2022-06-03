@@ -1,0 +1,15 @@
+C:\Users\tay\Desktop\aula\enumeradores\bin\Debug\net6.0\enumeradores.exe
+C:\Users\tay\Desktop\aula\enumeradores\bin\Debug\net6.0\enumeradores.deps.json
+C:\Users\tay\Desktop\aula\enumeradores\bin\Debug\net6.0\enumeradores.runtimeconfig.json
+C:\Users\tay\Desktop\aula\enumeradores\bin\Debug\net6.0\enumeradores.dll
+C:\Users\tay\Desktop\aula\enumeradores\bin\Debug\net6.0\enumeradores.pdb
+C:\Users\tay\Desktop\aula\enumeradores\obj\Debug\net6.0\enumeradores.csproj.AssemblyReference.cache
+C:\Users\tay\Desktop\aula\enumeradores\obj\Debug\net6.0\enumeradores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tay\Desktop\aula\enumeradores\obj\Debug\net6.0\enumeradores.AssemblyInfoInputs.cache
+C:\Users\tay\Desktop\aula\enumeradores\obj\Debug\net6.0\enumeradores.AssemblyInfo.cs
+C:\Users\tay\Desktop\aula\enumeradores\obj\Debug\net6.0\enumeradores.csproj.CoreCompileInputs.cache
+C:\Users\tay\Desktop\aula\enumeradores\obj\Debug\net6.0\enumeradores.dll
+C:\Users\tay\Desktop\aula\enumeradores\obj\Debug\net6.0\refint\enumeradores.dll
+C:\Users\tay\Desktop\aula\enumeradores\obj\Debug\net6.0\enumeradores.pdb
+C:\Users\tay\Desktop\aula\enumeradores\obj\Debug\net6.0\enumeradores.genruntimeconfig.cache
+C:\Users\tay\Desktop\aula\enumeradores\obj\Debug\net6.0\ref\enumeradores.dll

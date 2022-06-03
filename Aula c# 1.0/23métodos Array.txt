@@ -1,0 +1,3 @@
+métodos ja implementados para manipulação dos elementos de um array (vetor ou matriz),
+sao varios métodos para ordenar ,copiar,inverter,inserir elementos.
+  	            

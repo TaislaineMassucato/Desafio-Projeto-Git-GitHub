@@ -1,0 +1,7 @@
+Modificadore public vs private
+	Vamos declarar na classe e entender qual a diferença.Basicamente public podem ser acessados
+de dentro ou fora da classe e por classe derivadas e uma classe base..Já o private só podem ser acessados 
+dentro da propria classe que eles pertencem.
+
+
+		GET obter resul e SET alterar objeto classe.

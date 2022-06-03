@@ -1,0 +1,74 @@
+o q são classes? 
+ 	 TIPO DE DADO COMPOSTO POR MEMBROS, MEMBROS SAO PROPRIEDADES QUE 
+SAO AS VARIAVEIS DA CLASSE E METODOS, SAO AS FUNCOES, SAO AS FUNCIONALIDADE DA CLASSE,
+UMA CLASSE NUM DADO COMPOSTA QUE VOU INSTANCIAR OBJETO DESSA CLASSE, 
+CLASSE É BASE DO OBJETO , A QUE DEFINE AS REGRAS O COMPORTAMENTO DOS OBJETOS, 
+A PARTIR DELA POSSO INSTANCIAR QUANTOS OBJETOS FOREM NECESSARIOS E ESSES OBJETOS 
+SAO INDEPENDENTES UM DO OUTRO 
+VAO FUNCIONAR DE A CORDO COM A DESCRICAO DA CLASSE, MAS CADA OBJETO 
+É UM INDIVIDUO DIFERENTE UM DO OUTRO, PK SAO ALOCADOS EM POSICOES DIFERENTES NA MEMORIA
+ISTO A GENTE FAZ NO MOMENTO DA INSTANCIAÇÃO DA CLASSE, A GENTE UTILIZA O OPERADOR NEW PRA ISSO 
+....  	
+
+		[Modificador classe] class NOME_DA_CLASSE{
+	                        //Variaveis / propriedades
+		[EspecificadoresAcesso] tipo NOME_PROPRIEDADE;
+
+		  / / MÉTODOS
+                                 	[EspecificadoresAcesso] retorno NOME_MÉTODO( [arg1,....)]{
+				//corpo do método
+                       } 
+}
+
+
+ModificadorClasse..Defini a visibilidade da classe
+	
+	Public: Pública, sem restrição de visualização
+	abstract: Classe-Base para outras classes,nao podem ser instanciados objetos desta classe
+	Sealed: Classe nao pode ser herdada
+	Static: Classe não permite a instanciação de objetos e seus membros devem ser static
+
+Especificadorde Acesso: Onde um membro da classe pode ser acessado
+
+	Public: Sem restrição de acesso
+	Private: Só podem ser acessado pela propria classe
+	Protected: Podem ser acessados na propria classe e nas classes derivadas
+	Abstract: Os metodos nao tem implementação, somente cabeçalhos
+	Sealed: Os métodos nao podem ser redefinidos
+	Virtual:O método pode ser redefinido em uma classe derivada 
+	Static: O metodo pode ser chamado mesmo sem a instyanciação de um objeto 
+
+
+
+
+
+				exemplo jogador:
+
+
+
+
+
+using System;
+
+  //se nao usar nada na frente de class é public automatica
+
+     public class Jogador{
+         public int energia=100;
+         public bool vivo=true;
+     }
+     class aula28{
+         static void Main(){
+
+             Jogador j1=new Jogador();
+             Jogador j2=new Jogador();
+             Jogador j3=new Jogador();
+
+	(*OBS= New reserva na mémoria e retorna a memoria*)
+
+             j1.energia=50;
+             Console.WriteLine("A energia do jogador 1 : {0}",j1.energia);
+             Console.WriteLine("A energia do jogador 2 : {0}",j2.energia);
+         }
+     }
+
+Cada jogador tem sua energia, sao propriedaddes diferentes.

@@ -1,0 +1,15 @@
+C:\Users\tay\Desktop\aula\elsifi\bin\Debug\net6.0\elsifi.exe
+C:\Users\tay\Desktop\aula\elsifi\bin\Debug\net6.0\elsifi.deps.json
+C:\Users\tay\Desktop\aula\elsifi\bin\Debug\net6.0\elsifi.runtimeconfig.json
+C:\Users\tay\Desktop\aula\elsifi\bin\Debug\net6.0\elsifi.dll
+C:\Users\tay\Desktop\aula\elsifi\bin\Debug\net6.0\elsifi.pdb
+C:\Users\tay\Desktop\aula\elsifi\obj\Debug\net6.0\elsifi.csproj.AssemblyReference.cache
+C:\Users\tay\Desktop\aula\elsifi\obj\Debug\net6.0\elsifi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tay\Desktop\aula\elsifi\obj\Debug\net6.0\elsifi.AssemblyInfoInputs.cache
+C:\Users\tay\Desktop\aula\elsifi\obj\Debug\net6.0\elsifi.AssemblyInfo.cs
+C:\Users\tay\Desktop\aula\elsifi\obj\Debug\net6.0\elsifi.csproj.CoreCompileInputs.cache
+C:\Users\tay\Desktop\aula\elsifi\obj\Debug\net6.0\elsifi.dll
+C:\Users\tay\Desktop\aula\elsifi\obj\Debug\net6.0\refint\elsifi.dll
+C:\Users\tay\Desktop\aula\elsifi\obj\Debug\net6.0\elsifi.pdb
+C:\Users\tay\Desktop\aula\elsifi\obj\Debug\net6.0\elsifi.genruntimeconfig.cache
+C:\Users\tay\Desktop\aula\elsifi\obj\Debug\net6.0\ref\elsifi.dll

@@ -1,0 +1,15 @@
+C:\Users\tay\Desktop\aula\sobrecargasdeconsytutores\bin\Debug\net6.0\sobrecargasdeconsytutores.exe
+C:\Users\tay\Desktop\aula\sobrecargasdeconsytutores\bin\Debug\net6.0\sobrecargasdeconsytutores.deps.json
+C:\Users\tay\Desktop\aula\sobrecargasdeconsytutores\bin\Debug\net6.0\sobrecargasdeconsytutores.runtimeconfig.json
+C:\Users\tay\Desktop\aula\sobrecargasdeconsytutores\bin\Debug\net6.0\sobrecargasdeconsytutores.dll
+C:\Users\tay\Desktop\aula\sobrecargasdeconsytutores\bin\Debug\net6.0\sobrecargasdeconsytutores.pdb
+C:\Users\tay\Desktop\aula\sobrecargasdeconsytutores\obj\Debug\net6.0\sobrecargasdeconsytutores.csproj.AssemblyReference.cache
+C:\Users\tay\Desktop\aula\sobrecargasdeconsytutores\obj\Debug\net6.0\sobrecargasdeconsytutores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tay\Desktop\aula\sobrecargasdeconsytutores\obj\Debug\net6.0\sobrecargasdeconsytutores.AssemblyInfoInputs.cache
+C:\Users\tay\Desktop\aula\sobrecargasdeconsytutores\obj\Debug\net6.0\sobrecargasdeconsytutores.AssemblyInfo.cs
+C:\Users\tay\Desktop\aula\sobrecargasdeconsytutores\obj\Debug\net6.0\sobrecargasdeconsytutores.csproj.CoreCompileInputs.cache
+C:\Users\tay\Desktop\aula\sobrecargasdeconsytutores\obj\Debug\net6.0\sobrecargasdeconsytutores.dll
+C:\Users\tay\Desktop\aula\sobrecargasdeconsytutores\obj\Debug\net6.0\refint\sobrecargasdeconsytutores.dll
+C:\Users\tay\Desktop\aula\sobrecargasdeconsytutores\obj\Debug\net6.0\sobrecargasdeconsytutores.pdb
+C:\Users\tay\Desktop\aula\sobrecargasdeconsytutores\obj\Debug\net6.0\sobrecargasdeconsytutores.genruntimeconfig.cache
+C:\Users\tay\Desktop\aula\sobrecargasdeconsytutores\obj\Debug\net6.0\ref\sobrecargasdeconsytutores.dll

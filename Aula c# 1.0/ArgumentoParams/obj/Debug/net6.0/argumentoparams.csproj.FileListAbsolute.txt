@@ -1,0 +1,15 @@
+C:\Users\tay\Desktop\aula\argumentoparams\obj\Debug\net6.0\argumentoparams.csproj.AssemblyReference.cache
+C:\Users\tay\Desktop\aula\argumentoparams\obj\Debug\net6.0\argumentoparams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tay\Desktop\aula\argumentoparams\obj\Debug\net6.0\argumentoparams.AssemblyInfoInputs.cache
+C:\Users\tay\Desktop\aula\argumentoparams\obj\Debug\net6.0\argumentoparams.AssemblyInfo.cs
+C:\Users\tay\Desktop\aula\argumentoparams\obj\Debug\net6.0\argumentoparams.csproj.CoreCompileInputs.cache
+C:\Users\tay\Desktop\aula\argumentoparams\bin\Debug\net6.0\argumentoparams.exe
+C:\Users\tay\Desktop\aula\argumentoparams\bin\Debug\net6.0\argumentoparams.deps.json
+C:\Users\tay\Desktop\aula\argumentoparams\bin\Debug\net6.0\argumentoparams.runtimeconfig.json
+C:\Users\tay\Desktop\aula\argumentoparams\bin\Debug\net6.0\argumentoparams.dll
+C:\Users\tay\Desktop\aula\argumentoparams\bin\Debug\net6.0\argumentoparams.pdb
+C:\Users\tay\Desktop\aula\argumentoparams\obj\Debug\net6.0\argumentoparams.dll
+C:\Users\tay\Desktop\aula\argumentoparams\obj\Debug\net6.0\refint\argumentoparams.dll
+C:\Users\tay\Desktop\aula\argumentoparams\obj\Debug\net6.0\argumentoparams.pdb
+C:\Users\tay\Desktop\aula\argumentoparams\obj\Debug\net6.0\argumentoparams.genruntimeconfig.cache
+C:\Users\tay\Desktop\aula\argumentoparams\obj\Debug\net6.0\ref\argumentoparams.dll

@@ -1,0 +1,32 @@
+if bsasicamente é um verdadeiro ou falso ...se o comando for verdadeiro executa o que esta dentro
+caso contrario pula para outro comando.
+
+using System;
+        namespace elfi{
+            class elfy{
+                static void Main(){
+
+                    int n1,n2,n3,res;
+                    string resultado="Reprovado";
+                    string nome;
+
+                    Console.WriteLine("Digite seu nome:  ");
+                    nome=Console.ReadLine();
+                    Console.WriteLine("Digite a nota da primeira prova: ");
+                    n1=int.Parse(Console.ReadLine());
+                    Console.WriteLine("Digite a nota da segunda prova: ");
+                    n2=int.Parse(Console.ReadLine());
+                    Console.WriteLine("Digite a nota da terceira prova: ");
+                    n3=int.Parse(Console.ReadLine());
+
+                    res=(n1+n2+n3)/3;
+                    
+
+                    if(res>=7){
+                        resultado="Aprovado";
+                    }
+                    Console.WriteLine("{0} você foi {1} ",nome,resultado); 
+                    
+                }
+            }
+        }

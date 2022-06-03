@@ -1,0 +1,15 @@
+C:\Users\tay\Desktop\aula\MétodosVirtuais\obj\Debug\net6.0\MétodosVirtuais.csproj.AssemblyReference.cache
+C:\Users\tay\Desktop\aula\MétodosVirtuais\obj\Debug\net6.0\MétodosVirtuais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tay\Desktop\aula\MétodosVirtuais\obj\Debug\net6.0\MétodosVirtuais.AssemblyInfoInputs.cache
+C:\Users\tay\Desktop\aula\MétodosVirtuais\obj\Debug\net6.0\MétodosVirtuais.AssemblyInfo.cs
+C:\Users\tay\Desktop\aula\MétodosVirtuais\obj\Debug\net6.0\MétodosVirtuais.csproj.CoreCompileInputs.cache
+C:\Users\tay\Desktop\aula\MétodosVirtuais\bin\Debug\net6.0\MétodosVirtuais.exe
+C:\Users\tay\Desktop\aula\MétodosVirtuais\bin\Debug\net6.0\MétodosVirtuais.deps.json
+C:\Users\tay\Desktop\aula\MétodosVirtuais\bin\Debug\net6.0\MétodosVirtuais.runtimeconfig.json
+C:\Users\tay\Desktop\aula\MétodosVirtuais\bin\Debug\net6.0\MétodosVirtuais.dll
+C:\Users\tay\Desktop\aula\MétodosVirtuais\bin\Debug\net6.0\MétodosVirtuais.pdb
+C:\Users\tay\Desktop\aula\MétodosVirtuais\obj\Debug\net6.0\MétodosVirtuais.dll
+C:\Users\tay\Desktop\aula\MétodosVirtuais\obj\Debug\net6.0\refint\MétodosVirtuais.dll
+C:\Users\tay\Desktop\aula\MétodosVirtuais\obj\Debug\net6.0\MétodosVirtuais.pdb
+C:\Users\tay\Desktop\aula\MétodosVirtuais\obj\Debug\net6.0\MétodosVirtuais.genruntimeconfig.cache
+C:\Users\tay\Desktop\aula\MétodosVirtuais\obj\Debug\net6.0\ref\MétodosVirtuais.dll

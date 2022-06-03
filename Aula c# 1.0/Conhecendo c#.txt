@@ -1,0 +1,5 @@
+cria codigo ele passa peça (Assembly il code)para tornar uma linguagem intermediaria 
+passa peçp (CLR)arquivos-- dps JIT para tornar código binario ou da maquina
+dps vai para sistema operacional...sai o codigo
+ 	namespace - organizaer classes,organizacçao. uma biblioteca...separar softwer,projeto
+	

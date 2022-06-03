@@ -1,0 +1,27 @@
+bool -  pode receber verdadeiro ou falso 
+    pex: boll res = 10>5  V
+
+ OBS: float , double , decimal
+	 float /7digitos / 2 a 24/ 4byt
+	double / 15-16 dig/ 2 a 53/ 18byt
+	decimal/ 28-29 dig/ 2 a 113/ 16byt
+
+
+!=   (DIFERENTE)
+== (2 é de igual ) = (1 é atribuição pex: n1=2)
++
+*
+/
+  EXP:PARA ACRESCENTAR +1 A UM VALOR JÁ DETERMINADO.
+
+		 INT NUM= 10
+
+   NUM=NUM+1 // NUM+=1  // NUM++
+	             NUM+=2
+& = AND / E 
+	Retorna true só se todas opera´ões forem true, e falso se todas fotem falsas. 
+
+| = OR /OU
+        EXP:  BOOL RES= (5>2)|(3<5);
+		{RESPOSTA: THUE} Pois o or/ou retorna true sempre que tem 1 operacao certa.
+				e retorna folso só se todas forem falsas.

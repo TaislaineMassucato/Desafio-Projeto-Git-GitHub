@@ -1,0 +1,15 @@
+C:\Users\tay\Desktop\aula\Passagensvalorereferencia\bin\Debug\net6.0\passagensvalorereferencia.exe
+C:\Users\tay\Desktop\aula\Passagensvalorereferencia\bin\Debug\net6.0\passagensvalorereferencia.deps.json
+C:\Users\tay\Desktop\aula\Passagensvalorereferencia\bin\Debug\net6.0\passagensvalorereferencia.runtimeconfig.json
+C:\Users\tay\Desktop\aula\Passagensvalorereferencia\bin\Debug\net6.0\passagensvalorereferencia.dll
+C:\Users\tay\Desktop\aula\Passagensvalorereferencia\bin\Debug\net6.0\passagensvalorereferencia.pdb
+C:\Users\tay\Desktop\aula\Passagensvalorereferencia\obj\Debug\net6.0\passagensvalorereferencia.csproj.AssemblyReference.cache
+C:\Users\tay\Desktop\aula\Passagensvalorereferencia\obj\Debug\net6.0\passagensvalorereferencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tay\Desktop\aula\Passagensvalorereferencia\obj\Debug\net6.0\passagensvalorereferencia.AssemblyInfoInputs.cache
+C:\Users\tay\Desktop\aula\Passagensvalorereferencia\obj\Debug\net6.0\passagensvalorereferencia.AssemblyInfo.cs
+C:\Users\tay\Desktop\aula\Passagensvalorereferencia\obj\Debug\net6.0\passagensvalorereferencia.csproj.CoreCompileInputs.cache
+C:\Users\tay\Desktop\aula\Passagensvalorereferencia\obj\Debug\net6.0\passagensvalorereferencia.dll
+C:\Users\tay\Desktop\aula\Passagensvalorereferencia\obj\Debug\net6.0\refint\passagensvalorereferencia.dll
+C:\Users\tay\Desktop\aula\Passagensvalorereferencia\obj\Debug\net6.0\passagensvalorereferencia.pdb
+C:\Users\tay\Desktop\aula\Passagensvalorereferencia\obj\Debug\net6.0\passagensvalorereferencia.genruntimeconfig.cache
+C:\Users\tay\Desktop\aula\Passagensvalorereferencia\obj\Debug\net6.0\ref\passagensvalorereferencia.dll

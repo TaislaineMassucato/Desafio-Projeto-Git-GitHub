@@ -1,0 +1,33 @@
+NA PRESENÇA DE MUITAS VARIAVEIS EM UM WHITELINE "" USAR indice
+
+PEX :
+                 CONSOLE WHITELINE ("N1={0}, n2={1}, n3={2}"n1,n2,n3) 
+				
+			n1,n2,n3- sempre começa por 0- pex n1=0 e assim vai
+        	
+caracteres de escape
+	\n -- quebra de linha 
+	\t -- tabulacão (espaço grande)
+
+	CONSOLE WHITELINE ("\nN1=\t{0}, \nn2=\t{1}, \nn3=\t{2}"n1,n2,n3);
+			 
+			tática venda e porcentagem produto
+ OBS: float , double , decimal
+	 float /7digitos / 2 a 24/ 4byt
+	double / 15-16 dig/ 2 a 53/ 18byt
+	decimal/ 28-29 dig/ 2 a 113/ 16byt
+
+	double ValorCompra = 5.50;
+	double ValorVenda=;
+	double Lucro= 0.1;
+	string produto="Pastel";
+
+ 	valorvenda= valorcompra+(valordecompra*lucro);
+
+	console.WhiteLine("Produto...: {0,15}", produto);
+	console whiteline("valor compra...{0,15:c}", valor da compra);
+	console whiteline("lucro...{0,15:p}", lucro);
+	console whiteline("valorvenda...{0,15:p}", valor venda);
+
+:c -- cifão (money)
+:p -- porcentagem	

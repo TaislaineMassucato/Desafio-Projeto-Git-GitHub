@@ -1,0 +1,2 @@
+Podemos definir um tipo com valores personalizados,podemos definir valores que poderão ser atribuidos
+aos elementos do tipo unum que ciarmos.

@@ -1,0 +1,15 @@
+C:\Users\tay\Desktop\aula\argumentosout\bin\Debug\net6.0\argumentosout.exe
+C:\Users\tay\Desktop\aula\argumentosout\bin\Debug\net6.0\argumentosout.deps.json
+C:\Users\tay\Desktop\aula\argumentosout\bin\Debug\net6.0\argumentosout.runtimeconfig.json
+C:\Users\tay\Desktop\aula\argumentosout\bin\Debug\net6.0\argumentosout.dll
+C:\Users\tay\Desktop\aula\argumentosout\bin\Debug\net6.0\argumentosout.pdb
+C:\Users\tay\Desktop\aula\argumentosout\obj\Debug\net6.0\argumentosout.csproj.AssemblyReference.cache
+C:\Users\tay\Desktop\aula\argumentosout\obj\Debug\net6.0\argumentosout.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tay\Desktop\aula\argumentosout\obj\Debug\net6.0\argumentosout.AssemblyInfoInputs.cache
+C:\Users\tay\Desktop\aula\argumentosout\obj\Debug\net6.0\argumentosout.AssemblyInfo.cs
+C:\Users\tay\Desktop\aula\argumentosout\obj\Debug\net6.0\argumentosout.csproj.CoreCompileInputs.cache
+C:\Users\tay\Desktop\aula\argumentosout\obj\Debug\net6.0\argumentosout.dll
+C:\Users\tay\Desktop\aula\argumentosout\obj\Debug\net6.0\refint\argumentosout.dll
+C:\Users\tay\Desktop\aula\argumentosout\obj\Debug\net6.0\argumentosout.pdb
+C:\Users\tay\Desktop\aula\argumentosout\obj\Debug\net6.0\argumentosout.genruntimeconfig.cache
+C:\Users\tay\Desktop\aula\argumentosout\obj\Debug\net6.0\ref\argumentosout.dll

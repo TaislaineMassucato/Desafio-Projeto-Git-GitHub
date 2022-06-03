@@ -1,0 +1,21 @@
+   			Operação Bitwise
+
+sao operacões simples de deslocamento de bits que em resumo dobram o valor da variavél 
+ou diminuem pela metade
+ 
+dimunui >>  metade        (direita)
+aumenta o 2x <<  dobrar (esuqerda)
+
+		 int num=10;
+                
+                //dimunui pela metade
+                num=num>>1;
+		res: 5 (diminui pela metade , metade de 10 é 5)
+
+                //aumenta dobro
+                num=num<<1;
+		res: 20 (pois 10 + 10 o dobro é 20)
+
+	num=num<<2
+		res: 40 
+

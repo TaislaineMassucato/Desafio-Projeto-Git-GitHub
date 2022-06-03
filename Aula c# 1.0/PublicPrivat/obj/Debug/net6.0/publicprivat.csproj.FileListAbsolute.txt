@@ -1,0 +1,15 @@
+C:\Users\tay\Desktop\aula\PublicPrivat\bin\Debug\net6.0\publicprivat.exe
+C:\Users\tay\Desktop\aula\PublicPrivat\bin\Debug\net6.0\publicprivat.deps.json
+C:\Users\tay\Desktop\aula\PublicPrivat\bin\Debug\net6.0\publicprivat.runtimeconfig.json
+C:\Users\tay\Desktop\aula\PublicPrivat\bin\Debug\net6.0\publicprivat.dll
+C:\Users\tay\Desktop\aula\PublicPrivat\bin\Debug\net6.0\publicprivat.pdb
+C:\Users\tay\Desktop\aula\PublicPrivat\obj\Debug\net6.0\publicprivat.csproj.AssemblyReference.cache
+C:\Users\tay\Desktop\aula\PublicPrivat\obj\Debug\net6.0\publicprivat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tay\Desktop\aula\PublicPrivat\obj\Debug\net6.0\publicprivat.AssemblyInfoInputs.cache
+C:\Users\tay\Desktop\aula\PublicPrivat\obj\Debug\net6.0\publicprivat.AssemblyInfo.cs
+C:\Users\tay\Desktop\aula\PublicPrivat\obj\Debug\net6.0\publicprivat.csproj.CoreCompileInputs.cache
+C:\Users\tay\Desktop\aula\PublicPrivat\obj\Debug\net6.0\publicprivat.dll
+C:\Users\tay\Desktop\aula\PublicPrivat\obj\Debug\net6.0\refint\publicprivat.dll
+C:\Users\tay\Desktop\aula\PublicPrivat\obj\Debug\net6.0\publicprivat.pdb
+C:\Users\tay\Desktop\aula\PublicPrivat\obj\Debug\net6.0\publicprivat.genruntimeconfig.cache
+C:\Users\tay\Desktop\aula\PublicPrivat\obj\Debug\net6.0\ref\publicprivat.dll

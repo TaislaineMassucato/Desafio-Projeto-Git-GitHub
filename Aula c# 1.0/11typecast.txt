@@ -1,0 +1,4 @@
+Aprender sobre conver´ões implícitas e explìcitas,
+
+	implicita conversoes seguras e automaticas
+	explicitas onde devemos indicar o comando para conversao

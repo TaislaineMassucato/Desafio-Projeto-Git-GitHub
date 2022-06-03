@@ -1,0 +1,15 @@
+C:\Users\tay\Desktop\aula\arrayvector\bin\Debug\net6.0\arrayvector.exe
+C:\Users\tay\Desktop\aula\arrayvector\bin\Debug\net6.0\arrayvector.deps.json
+C:\Users\tay\Desktop\aula\arrayvector\bin\Debug\net6.0\arrayvector.runtimeconfig.json
+C:\Users\tay\Desktop\aula\arrayvector\bin\Debug\net6.0\arrayvector.dll
+C:\Users\tay\Desktop\aula\arrayvector\bin\Debug\net6.0\arrayvector.pdb
+C:\Users\tay\Desktop\aula\arrayvector\obj\Debug\net6.0\arrayvector.csproj.AssemblyReference.cache
+C:\Users\tay\Desktop\aula\arrayvector\obj\Debug\net6.0\arrayvector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tay\Desktop\aula\arrayvector\obj\Debug\net6.0\arrayvector.AssemblyInfoInputs.cache
+C:\Users\tay\Desktop\aula\arrayvector\obj\Debug\net6.0\arrayvector.AssemblyInfo.cs
+C:\Users\tay\Desktop\aula\arrayvector\obj\Debug\net6.0\arrayvector.csproj.CoreCompileInputs.cache
+C:\Users\tay\Desktop\aula\arrayvector\obj\Debug\net6.0\arrayvector.dll
+C:\Users\tay\Desktop\aula\arrayvector\obj\Debug\net6.0\refint\arrayvector.dll
+C:\Users\tay\Desktop\aula\arrayvector\obj\Debug\net6.0\arrayvector.pdb
+C:\Users\tay\Desktop\aula\arrayvector\obj\Debug\net6.0\arrayvector.genruntimeconfig.cache
+C:\Users\tay\Desktop\aula\arrayvector\obj\Debug\net6.0\ref\arrayvector.dll

@@ -1,0 +1,20 @@
+Na aula de hoje do curso programação C#, vamos falar mais sobre classes e métodos abstratos.
+ O modificador abstract indica que o item que está sendo modificado tem uma implementação ausente ou incompleta. 
+O modificador abstrato pode ser usado com classes, métodos, propriedades, indexadores e eventos. 
+Use o modificador abstract em uma declaração de classe para indicar que uma classe se destina somente 
+a ser uma classe base de outras classes, não instanciada por conta própria. 
+Membros marcados como abstratos precisam ser implementados por classes não abstratas que derivam da 
+classe abstrata.
+
+Quando um método virtual é invocado, o tipo de tempo de execução do objeto é verificado 
+para um membro de substituição. O membro de substituição na classe mais derivada é chamado, 
+que pode ser o membro original, se nenhuma classe derivada tiver substituído o membro.
+Por padrão, os métodos não são virtuais. Você não pode substituir um método não virtual.
+Não é possível usar o modificador virtual com os modificadores static, abstract, private ou override.
+
+
+NAO POSSO ESTANCIA OBJETO DE UMA CLASSE ABSTRATA 
+			
+	SE CRIO UM METODO NAO ABASTRATO PRECISO INDICAR A FUNCIONALIDADE
+
+SE CRIO UM METODO ABASTRATO PRECISO IMPLEMENTAR OBRIGATORIAMENTE EM CLASSE HERDADE ADIANTE.

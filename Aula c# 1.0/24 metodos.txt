@@ -1,0 +1,96 @@
+oq sao metodos : Sao conjuntos de instrucoes ,bloco de instrucao que pode ser chamado a qualquer momento
+ no porograma.
+
+		 
+		Void vazio sem entrada. STATIC Double- Retornar tipo de dados (int n1, string texto,double n2)return..retorno tem 
+						q ser do mesmo metodos.
+
+using System;
+    namespace me4todo{
+        class metod{
+            static void Main(){
+
+            cfb();
+            }
+            static void cfb(){
+                Console.WriteLine("cfbcurso");
+                Console.WriteLine("estudo c#");
+                Console.WriteLine("aprendendo");
+                Console.WriteLine("voaaa");
+            }
+        }
+    }
+				metodo criado por mim soma 
+
+using System;
+    namespace me4todo{
+        class metod{
+            static void Main(){
+
+            soma(10,5);
+            }
+            static void soma(int n1,int n2){
+                int res=n1+n2;
+                Console.WriteLine("A soma de {0} e {1} é : {2}",n1,n2,res);
+            }
+        }
+    }
+
+using System;
+    namespace me4todo{
+        class metod{
+            static void Main(){
+                
+                int v2,v1;
+                
+                v1=int.Parse(Console.ReadLine());
+                v2=int.Parse(Console.ReadLine());
+                soma(v1,v2);
+            }
+            static void soma(int v1,int v2){
+                int res=v1+v2;
+                Console.WriteLine("A soma de {0} e {1} é : {2}",v1,v2,res);
+            }
+        }
+    }
+
+
+				Retornar direto do método 
+Using System;
+    namespace me4todo{
+        class metod{
+            static void Main(){
+                
+                int v2,v1;
+                
+                v1=int.Parse(Console.ReadLine());
+                v2=int.Parse(Console.ReadLine());
+                soma(v1,v2);
+            }
+            static int soma(int v1,int v2){
+                int res=v1+v2;
+                return res;
+            ;
+            }
+        }
+    }
+ 		using System;
+    namespace me4todo{
+        class metod{
+            static void Main(){
+                
+                int v2,v1,r;
+                
+                v1=int.Parse(Console.ReadLine());
+                v2=int.Parse(Console.ReadLine());
+                r=soma(v1,v2);
+                Console.WriteLine("Asoma de {0} e {1 é: {2}",v1,v2,r);
+            
+            }
+            static int soma(int v1,int v2){
+                int res=v1+v2;
+                return res;
+            ;
+            }
+        }
+    }

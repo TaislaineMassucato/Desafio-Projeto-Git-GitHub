@@ -1,0 +1,15 @@
+C:\Users\tay\Desktop\aula\foreachh\foreachh\bin\Debug\net6.0\foreachh.exe
+C:\Users\tay\Desktop\aula\foreachh\foreachh\bin\Debug\net6.0\foreachh.deps.json
+C:\Users\tay\Desktop\aula\foreachh\foreachh\bin\Debug\net6.0\foreachh.runtimeconfig.json
+C:\Users\tay\Desktop\aula\foreachh\foreachh\bin\Debug\net6.0\foreachh.dll
+C:\Users\tay\Desktop\aula\foreachh\foreachh\bin\Debug\net6.0\foreachh.pdb
+C:\Users\tay\Desktop\aula\foreachh\foreachh\obj\Debug\net6.0\foreachh.csproj.AssemblyReference.cache
+C:\Users\tay\Desktop\aula\foreachh\foreachh\obj\Debug\net6.0\foreachh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tay\Desktop\aula\foreachh\foreachh\obj\Debug\net6.0\foreachh.AssemblyInfoInputs.cache
+C:\Users\tay\Desktop\aula\foreachh\foreachh\obj\Debug\net6.0\foreachh.AssemblyInfo.cs
+C:\Users\tay\Desktop\aula\foreachh\foreachh\obj\Debug\net6.0\foreachh.csproj.CoreCompileInputs.cache
+C:\Users\tay\Desktop\aula\foreachh\foreachh\obj\Debug\net6.0\foreachh.dll
+C:\Users\tay\Desktop\aula\foreachh\foreachh\obj\Debug\net6.0\refint\foreachh.dll
+C:\Users\tay\Desktop\aula\foreachh\foreachh\obj\Debug\net6.0\foreachh.pdb
+C:\Users\tay\Desktop\aula\foreachh\foreachh\obj\Debug\net6.0\foreachh.genruntimeconfig.cache
+C:\Users\tay\Desktop\aula\foreachh\foreachh\obj\Debug\net6.0\ref\foreachh.dll

@@ -1,0 +1,37 @@
+vamos falar sobre indexadores. Os indexadores permitem que instâncias de uma classe ou struct sejam indexados
+ como matrizes. O valor indexado pode ser definido ou recuperado sem especificar explicitamente 
+um membro de instância ou tipo. 
+Os indexadores parecem com propriedades, a diferença é que seus acessadores usam parâmetros.
+
+	using System;
+
+using System;
+
+
+class veiculo{
+    private int[] velMax=new int[6]{21,32,43,54,65,76};
+
+    public int this[int i]{
+        get{
+            return velMax[i];
+
+        }
+        set{
+            if(value<0){
+                velMax[i]=0;
+            }else if(value>=300){
+                velMax[i]=300;
+            }else{
+                velMax[i]=value;
+            }
+
+        }
+    }
+}
+    class aula41{
+        static void Main(){
+
+                veiculo carro1=new veiculo();
+                Console.WriteLine("Valor dentro do índice 4 é: {0}",carro1[4]);
+        }
+    }

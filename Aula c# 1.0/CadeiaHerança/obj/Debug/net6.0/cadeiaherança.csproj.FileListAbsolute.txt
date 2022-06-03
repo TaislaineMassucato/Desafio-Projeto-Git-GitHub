@@ -1,0 +1,15 @@
+C:\Users\tay\Desktop\aula\cadeiaherança\bin\Debug\net6.0\cadeiaherança.exe
+C:\Users\tay\Desktop\aula\cadeiaherança\bin\Debug\net6.0\cadeiaherança.deps.json
+C:\Users\tay\Desktop\aula\cadeiaherança\bin\Debug\net6.0\cadeiaherança.runtimeconfig.json
+C:\Users\tay\Desktop\aula\cadeiaherança\bin\Debug\net6.0\cadeiaherança.dll
+C:\Users\tay\Desktop\aula\cadeiaherança\bin\Debug\net6.0\cadeiaherança.pdb
+C:\Users\tay\Desktop\aula\cadeiaherança\obj\Debug\net6.0\cadeiaherança.csproj.AssemblyReference.cache
+C:\Users\tay\Desktop\aula\cadeiaherança\obj\Debug\net6.0\cadeiaherança.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tay\Desktop\aula\cadeiaherança\obj\Debug\net6.0\cadeiaherança.AssemblyInfoInputs.cache
+C:\Users\tay\Desktop\aula\cadeiaherança\obj\Debug\net6.0\cadeiaherança.AssemblyInfo.cs
+C:\Users\tay\Desktop\aula\cadeiaherança\obj\Debug\net6.0\cadeiaherança.csproj.CoreCompileInputs.cache
+C:\Users\tay\Desktop\aula\cadeiaherança\obj\Debug\net6.0\cadeiaherança.dll
+C:\Users\tay\Desktop\aula\cadeiaherança\obj\Debug\net6.0\refint\cadeiaherança.dll
+C:\Users\tay\Desktop\aula\cadeiaherança\obj\Debug\net6.0\cadeiaherança.pdb
+C:\Users\tay\Desktop\aula\cadeiaherança\obj\Debug\net6.0\cadeiaherança.genruntimeconfig.cache
+C:\Users\tay\Desktop\aula\cadeiaherança\obj\Debug\net6.0\ref\cadeiaherança.dll

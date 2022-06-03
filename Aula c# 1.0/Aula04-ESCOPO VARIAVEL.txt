@@ -1,0 +1,17 @@
+		aula 4 - Escopo de variavel
+     o q é ??
+
+- Onde a variavel é visivel.
+-tipos de variavel = global ou local
+-Até aonde ela pode ser acessada 
+-Onde foi declarada
+
+exp:  static void (Main) - Método main
+	int num1= 1; 
+		(num1 é uma variavel dada ao método Main, só funciona dentro desse método)
+
+                     class num1
+		{
+		num1=10; 				
+		{
+			(num1 é variavel global, funciona em qualqul método criado ,ou seja qualquer void)		

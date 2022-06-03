@@ -1,0 +1,15 @@
+C:\Users\tay\Desktop\aula\ifi\bin\Debug\net6.0\ifi.exe
+C:\Users\tay\Desktop\aula\ifi\bin\Debug\net6.0\ifi.deps.json
+C:\Users\tay\Desktop\aula\ifi\bin\Debug\net6.0\ifi.runtimeconfig.json
+C:\Users\tay\Desktop\aula\ifi\bin\Debug\net6.0\ifi.dll
+C:\Users\tay\Desktop\aula\ifi\bin\Debug\net6.0\ifi.pdb
+C:\Users\tay\Desktop\aula\ifi\obj\Debug\net6.0\ifi.csproj.AssemblyReference.cache
+C:\Users\tay\Desktop\aula\ifi\obj\Debug\net6.0\ifi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tay\Desktop\aula\ifi\obj\Debug\net6.0\ifi.AssemblyInfoInputs.cache
+C:\Users\tay\Desktop\aula\ifi\obj\Debug\net6.0\ifi.AssemblyInfo.cs
+C:\Users\tay\Desktop\aula\ifi\obj\Debug\net6.0\ifi.csproj.CoreCompileInputs.cache
+C:\Users\tay\Desktop\aula\ifi\obj\Debug\net6.0\ifi.dll
+C:\Users\tay\Desktop\aula\ifi\obj\Debug\net6.0\refint\ifi.dll
+C:\Users\tay\Desktop\aula\ifi\obj\Debug\net6.0\ifi.pdb
+C:\Users\tay\Desktop\aula\ifi\obj\Debug\net6.0\ifi.genruntimeconfig.cache
+C:\Users\tay\Desktop\aula\ifi\obj\Debug\net6.0\ref\ifi.dll

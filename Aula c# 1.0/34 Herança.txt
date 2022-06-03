@@ -1,0 +1,58 @@
+é um recurso das linguagens de programação orientadas a objeto que permite a definição
+ de uma classe base que, por sua vez fornece uma funcionalidade especifica(dados e comportamentos),
+e definição de classes derivadas que herdam ou substituem essa funcionalidade.
+
+		using System;
+    namespace HERANCA{
+
+        class veiculo {//classe base
+        public int Rodas;
+        public int velmax;
+        public bool ligado;
+
+        public void ligar(){
+            ligado=true;
+            
+        }
+        public void desligar(){
+            ligado=false;
+
+        }
+        public string getLigado(){
+            if(ligado){
+                return "sim";
+            }else{
+                return "Não";
+            }
+        }
+         
+        }
+           class carro:veiculo{
+               public string cor,nome;
+                
+               public carro(string nome,string cor){
+                   desligar();
+                   Rodas=4;
+                   velmax=120;
+                   this.nome=nome;
+                   this.cor=cor;
+               }
+
+        }
+
+        class AULA34{
+            static void Main(){
+                carro c1=new carro("rapidao","vermelho");
+                 
+                 
+                 Console.WriteLine("cor: {0}",c1.cor);
+                 Console.WriteLine("nome: {0}",c1.nome);
+                 Console.WriteLine("rodas: {0}",c1.Rodas);
+                  Console.WriteLine("velocidade: {0}",c1.velmax);
+                   Console.WriteLine("ligado: {0}",c1.getLigado());
+                 
+                
+
+            }
+        }
+    }
