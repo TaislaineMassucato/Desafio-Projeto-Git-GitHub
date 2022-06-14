@@ -1,4 +1,4 @@
-# Desafio de projeto sobre Git/Github da DIO.
+# EXERCICÍOS DE C# e Algoritmos com VisualG .
 Repositório criado para o desafio de projeto.
 
 ##Links Úteis
